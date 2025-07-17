@@ -1,0 +1,9 @@
+Django>=5.2.4
+djangorestframework>=3.14.0
+psycopg2>=2.9.10
+uuid>=1.30
+reportlab>=3.6.0
+celery>=5.2.0
+redis>=4.3.0
+WeasyPrint
+xhtml2pdf
